@@ -1,6 +1,6 @@
 class student :
 
-    intrest = 2.0
+    intrest = 2.0  #instance varibles /class variables
     no_of_students = 0
 #  It must be the first parameter of any method inside a class if that method needs to access instance data.
 
